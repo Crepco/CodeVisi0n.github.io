@@ -33,4 +33,3 @@ const tween = KUTE.fromTo(
     { repeat: 999, duration: 3000, yoyo: true }
 ).start();
 
-
